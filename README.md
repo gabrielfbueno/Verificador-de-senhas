@@ -1,2 +1,2 @@
 # Verificador-de-senhas
-Verifique se sua senha já foi violada utilizando python de maneira simples e rápida.
+O presente script utiliza uma função em Python que codifica a senha que será consultada utilizando a criptografia MD5 e realiza a busca apenas dos 5 primeiros caracteres da criptografia. Visto que, embora o site seja seguro, como estamos realizando uma consulta na internet, neste caminho a senha pode ser interceptada, utilizando este método de criptografia a busca se torna segura.
